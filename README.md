@@ -1,2 +1,2 @@
-npx electron .
-python -m uvicorn server:app --reload --port 8000
+# npx electron .
+# python -m uvicorn server:app --reload --port 8000
